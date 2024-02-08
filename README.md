@@ -238,16 +238,6 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 
 
-<!-- CONTACT -->
-## Contact
-
-Hardhat - [@HardhatHQ](https://twitter.com/HardhatHQ)
-Patrick Collins - [@patrickalphac](https://twitter.com/patrickalphac)
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
